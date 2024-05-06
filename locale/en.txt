@@ -1,0 +1,19 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_3EE48F2F_32B8_C35E_41A3_17F35AD3A3DE.label = View 1
+panorama_3866FF37_32B8_C34D_41A4_E99151CD699F.label = View 2
+panorama_3863C91A_32B8_CF47_41C0_06CB1DC70292.label = View 3
+panorama_3864B354_32B8_43C2_41B3_B6D8C78BA9B1.label = View 4
+panorama_38622D7B_32B8_47C6_41A3_30A0092F4831.label = View 5
+panorama_386228D3_32B8_4EC6_41AE_0A7CAC062547.label = View 6
+panorama_3865A31A_32B8_4347_41BA_7EEF534B9D49.label = View 7
+
+## Tour
+
+### Description
+
+### Title
+tour.name = demoBDS
